@@ -1,6 +1,6 @@
 # Pokemon list in ReactJS
 
- Project that shows the list of all existing Pokémon, with the option of previous, next and home.
+ Project that shows the list of all existing Pokemon, with the option of previous, next and home.
  
 ## Technologies and 
 
