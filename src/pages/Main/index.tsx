@@ -21,7 +21,7 @@ const Main = () => {
   }, [] || pokemons);
 
   const listPokemons = async (url: string) => {
-    api.get(url).then(response => {
+    await api.get(url).then(response => {
       let id:number[] = [];
       let next =response.data.next 
       let previous =response.data.previous
